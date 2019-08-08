@@ -1,2 +1,2 @@
 #!/bin/bash
-yarn -s run-all > result.log
+yarn -s run-all > result.csv
