@@ -1,0 +1,17 @@
+{
+  "name": "ulid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@kiosked/ulid": "^3.0.0"
+  },
+  "scripts": {
+    "run-all":"npm-run-all --silent --parallel run:*",
+    "run:dev": "node app",
+    "run:demo": "node demo"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}

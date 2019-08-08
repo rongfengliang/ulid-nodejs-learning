@@ -1,0 +1,2 @@
+#!/bin/bash
+yarn -s run-all > result.log
